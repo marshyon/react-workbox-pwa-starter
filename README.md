@@ -1,3 +1,5 @@
+[![dotenv-vault](https://badge.dotenv.org/works-with.svg?r=1)](https://www.dotenv.org/r/github.com/dotenv-org/dotenv-vault?r=1)
+
 # React Firebase Auth starter app with PWA using Workbox
 
 
